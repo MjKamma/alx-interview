@@ -4,7 +4,6 @@ Python function that implements the logic to calculate the
 perimeter of the island described in the given grid
 """
 
-
 def island_perimeter(grid):
     """calculate the perimeter of the island"""
     if not grid:
@@ -24,4 +23,4 @@ def island_perimeter(grid):
                 if col > 0 and grid[row][col - 1] == 1:
                     perimeter -= 2
 
-    return perimeter"
+    return perimeter
