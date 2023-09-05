@@ -1,2 +1,1 @@
-# 0x0A. Prime Game
-
+Poject on 0x0A-primegame
