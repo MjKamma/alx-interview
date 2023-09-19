@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""This script determines the fewest number of coins needed to meet a given amount total"""
+""" script determines the fewestcoins needed to meet a given amount total"""
 
 
 def makeChange(coins, total):
